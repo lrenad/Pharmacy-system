@@ -1,0 +1,17 @@
+
+30
+0001
+Adderall
+Duramed Pharmaceutical, Inc.
+22
+0003
+Ibuprofen
+IOL Chemicals and Pharmaceuticals Ltd.
+7
+0004
+Keflex
+Pragma Pharmaceuticals
+48
+0002
+Melatonin
+Action Labs, Inc.
