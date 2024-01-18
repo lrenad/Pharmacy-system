@@ -1,10 +1,5 @@
 //Pharmacy system
-//team number: 2 
 
-//arwa alhindi    2210003264
-//manar alzahrani 2210003175
-//dana albrahim   2210003181
-//renad alharbi   2210002476
 
 
 #include <iostream>
