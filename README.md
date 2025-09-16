@@ -19,11 +19,3 @@ A simple console / file-based system for managing pharmacy operations: inventori
 - Standard library support  
 - (Optional) A terminal / command-line environment  
 
----
-
-## Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/PharmacyManagementSystem.git
